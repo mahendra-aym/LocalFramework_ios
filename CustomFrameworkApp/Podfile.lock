@@ -1,0 +1,16 @@
+PODS:
+  - LocalFramework_ios (1.0.0)
+
+DEPENDENCIES:
+  - LocalFramework_ios (from `../LocalFramework_ios/`)
+
+EXTERNAL SOURCES:
+  LocalFramework_ios:
+    :path: "../LocalFramework_ios/"
+
+SPEC CHECKSUMS:
+  LocalFramework_ios: 3d4c2724d9062ee0c68c859d96c33203b438b430
+
+PODFILE CHECKSUM: ae37b695365b1f54582afec112d1b36cde9ba906
+
+COCOAPODS: 1.9.3
